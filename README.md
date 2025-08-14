@@ -14,7 +14,6 @@ In this project, we:
 2. Extract **layer-wise functional components** using representational analysis.
 3. Align components with **psycholinguistic indices** (e.g., lexical sophistication, syntactic complexity, discourse coherence).
 4. Assess **predictive relevance** of components for essay scores.
-5. Discuss the trade-off between interpretability and predictive performance.
 
 ---
 
@@ -24,7 +23,4 @@ In this project, we:
 - **Layer 12**: Components exhibit higher predictive power but less interpretability.
 - **Trade-off**: Models capture construct-relevant information, but not all such information is necessarily *used* in final scoring decisions.
 
----
-
-## 📂 Repository Structure
 
